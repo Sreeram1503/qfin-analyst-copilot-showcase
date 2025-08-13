@@ -1,0 +1,4 @@
+venv/
+.env
+earnings_agent/storage/data/raw/
+gcp-credentials.json
