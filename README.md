@@ -57,7 +57,7 @@ The production system integrates with proprietary datasets, which are not includ
 ┌────────────────────┐
 │ Analyst Dashboard   │
 └────────────────────┘
-'''
+```
 ## Screenshots
 <p align="center">
   <img src="assets/img1.png" alt="Screenshot 1" width="30%" />
