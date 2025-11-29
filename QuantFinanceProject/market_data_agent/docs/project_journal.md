@@ -20,7 +20,6 @@ Command to start Prefect:
 2) prefect server start 
 
 Prefect Cloud API: 
-- pnu_XNI17PBqdQR189cQhQLr5tDXOmGZzN2xzwY3
 - email account: sreeramandra8989@gmail.com
 
 Prefect.yaml deploy command: 
